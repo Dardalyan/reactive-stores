@@ -27,7 +27,7 @@
     "state",
     "use-sync-external-store"
   ],
-  "author": "Dardalyan",  
+  "author": "Dardalyan",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=18"
